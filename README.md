@@ -7,3 +7,7 @@
 - [Xebicon 2018 - Des notebook pour le monitoring avec Zeppelin](https://youtu.be/w78gZW6BQJI)
 - [Xebicon 2018 - Comment fausser l'interprétation de vos résultats avec des dataviz](https://youtu.be/pMOJZ8EVlxY)
 - [Breizhcamp 2019 - Comment fausser l'interprétation de vos résultats avec des dataviz](https://youtu.be/5gVq0sCWJ-U)
+
+## Training
+
+- [Développer, déployer et optimiser une application avec Spark](https://training.xebia.fr/formation-data/formation-spark-avancee/)
