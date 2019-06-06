@@ -10,4 +10,4 @@
 
 ## Training
 
-- [Développer, déployer et optimiser une application avec Spark](https://training.xebia.fr/formation-data/formation-spark-avancee/)
+- [Développer, déployer et optimiser une application Spark](https://training.xebia.fr/formation-data/formation-spark-avancee/)
