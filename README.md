@@ -7,6 +7,7 @@
 - [Xebicon 2018 - Des notebook pour le monitoring avec Zeppelin](https://youtu.be/w78gZW6BQJI)
 - [Xebicon 2018 - Comment fausser l'interprétation de vos résultats avec des dataviz](https://youtu.be/pMOJZ8EVlxY)
 - [Breizhcamp 2019 - Comment fausser l'interprétation de vos résultats avec des dataviz](https://youtu.be/5gVq0sCWJ-U)
+- [DataXDay 2019 - Deep learning en production vu par un Data Engineer](https://youtu.be/aLowsPZjVew)
 
 ## Training
 
