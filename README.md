@@ -8,6 +8,8 @@
 - [Xebicon 2018 - Comment fausser l'interprétation de vos résultats avec des dataviz](https://youtu.be/pMOJZ8EVlxY)
 - [Breizhcamp 2019 - Comment fausser l'interprétation de vos résultats avec des dataviz](https://youtu.be/5gVq0sCWJ-U)
 - [DataXDay 2019 - Deep learning en production vu par un Data Engineer](https://youtu.be/aLowsPZjVew)
+- [Xebicon 2019 - UX > Craft](https://youtu.be/5hmItPxNfxQ)
+- [Xebicon 2019 - J'ai fait un tableau](https://youtu.be/f58nI6n959w)
 
 ## Training
 
