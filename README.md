@@ -10,6 +10,7 @@
 - [DataXDay 2019 - Deep learning en production vu par un Data Engineer](https://youtu.be/aLowsPZjVew)
 - [Xebicon 2019 - UX > Craft](https://youtu.be/5hmItPxNfxQ)
 - [Xebicon 2019 - J'ai fait un tableau](https://youtu.be/f58nI6n959w)
+- [TechAway 2020 - Spark Deep Dive: Partition & Shuffle](https://youtu.be/jNEHDKNj9a0)
 
 ## Training
 
