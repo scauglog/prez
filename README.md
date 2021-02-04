@@ -11,7 +11,8 @@
 - [Xebicon 2019 - UX > Craft](https://youtu.be/5hmItPxNfxQ)
 - [Xebicon 2019 - J'ai fait un tableau](https://youtu.be/f58nI6n959w)
 - [TechAway 2020 - Spark Deep Dive: Partition & Shuffle](https://youtu.be/jNEHDKNj9a0)
+- [DataXDays 2020 - Du on premise au cloud: Glue vs EMR](https://youtu.be/HOLL4f4QFuM)
 
-## Training
+## Formation
 
 - [Développer, déployer et optimiser une application Spark](https://training.xebia.fr/formation-data/formation-spark-avancee/)
